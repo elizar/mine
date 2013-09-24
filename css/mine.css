@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+}
+
+body {
+  font: normal 95%/150% "Lucida Grande", Ubuntu, Arial, sans-serif;
+}
+
+#app {
+  /* Do something here */
+}
