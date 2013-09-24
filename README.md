@@ -3,7 +3,6 @@ a super duper extra mega ultra awesome mine sweeper game powered by
 javascript
 
 ### CREADITS
-[elizar][el] - Main development
+[elizar](http://elizarpepino.com) - Code and stuffs
 
 
-[el][http://elizarpepino.com]
