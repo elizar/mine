@@ -62,7 +62,7 @@
      * Setup Positions and Padding
      */
     var _point = {},
-      _padding = {};
+     _padding = {};
     _point.y = _rBound ? r : r - 1;
     _point.x = _cBound ? c : c - 1;
     _padding.y = _point.y + ((_rBound || _rBoundMax) ? 1 : 2);
